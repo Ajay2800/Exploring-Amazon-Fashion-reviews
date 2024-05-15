@@ -16,5 +16,6 @@ Topic modeling techniques, such as Latent Dirichlet Allocation (LDA) or Latent S
 
 4. Rating Predictions
 Classification algorithms are utilized to predict product ratings based on the textual content of the reviews. Machine learning models are trained to accurately predict ratings, assisting consumers in making informed purchasing decisions. This analysis also helps in identifying factors that influence customer satisfaction and product ratings.
+
 Conclusion
 This project provides a comprehensive exploration of Amazon Fashion reviews, offering valuable insights for both consumers and businesses. By leveraging sentiment analysis, clustering, topic modeling, and rating predictions, it enhances the understanding of customer feedback and aids in improving the online shopping experience.
